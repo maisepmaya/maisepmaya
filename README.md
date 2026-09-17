@@ -63,6 +63,18 @@ I care about clean, readable code, interfaces that feel effortless, and products
 
 ---
 
+### 📊 GitHub in numbers
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maisepmaya&style=for-the-badge&label=Profile+Views&labelColor=2b2140&color=6D5AE6" alt="Profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/maisepmaya?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=2b2140&color=E75A8B" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/maisepmaya?style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=2b2140&color=6D5AE6" alt="Stars"/>
+</p>
+
+---
+
 ### 💜 A few things I believe in
 
 > ✨ &nbsp;**Clean code is kindness** to whoever reads it next — usually future me.
