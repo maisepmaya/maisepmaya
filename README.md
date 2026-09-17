@@ -1,27 +1,35 @@
-<h1 align="center">Hi, I'm Maíse Maya 👋</h1>
-<h3 align="center">Full Stack Developer · TypeScript & JavaScript · React & Vue</h3>
+<h1 align="center">Hi, I'm Maíse 🌸</h1>
+<h3 align="center">Full Stack Developer · TypeScript · React & Vue</h3>
+
+<p align="center">
+  <i>I turn Figma designs into delightful, well-architected products —<br/>from the very first pixel to the last line of the API. 💜</i>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maisemaya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:maisepmaya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/📍%20Brazil-009C3B?style=for-the-badge&logoColor=white" alt="Brazil"/>
+  <img src="https://img.shields.io/badge/📍%20Brazil-6D5AE6?style=for-the-badge&logoColor=white" alt="Brazil"/>
 </p>
 
+<br/>
+
+### 🌸 About me
+
+Hi! I'm Maíse — a Full Stack Developer with a Software Engineering background and **3+ years** building web applications I'm genuinely proud of. I live in the **JavaScript / TypeScript** world (React & Vue), and I love owning a feature end to end: from the Figma mockup all the way to the data resting safely in the database.
+
+I care about clean, readable code, interfaces that feel effortless, and products that quietly just *work* for the people using them.
+
+<br/>
+
+- 💻 &nbsp;Currently a Full Stack Developer @ **DBX Global**
+- 🎓 &nbsp;Postgraduate in Full Stack Development @ **PUC-Rio** · B.Sc. in Computer Science *(GPA 9.4/10)*
+- 🌱 &nbsp;Exploring CI/CD, microservices & cloud computing
+- 💬 &nbsp;Ask me about **React, Vue, TypeScript** & AI-assisted development
+- 🌎 &nbsp;Based in Brazil
+
 ---
 
-### 🚀 About Me
-
-Full Stack Developer with a Software Engineering background and **3+ years** building web applications, specialized in the **JavaScript / TypeScript** ecosystem (React and Vue). I build complex, high-performance interfaces, browser extensions, and **Generative AI** integrations — owning features end to end, from Figma design to back-end data persistence.
-
-- 🔭 Currently working as a Full Stack Developer at **DBX Global**
-- 🎓 Postgraduate in **Full Stack Development — PUC-Rio** · B.Sc. in **Computer Science** (GPA 9.4/10)
-- 🌱 Exploring CI/CD, microservices, and cloud computing
-- 🌎 Based in Brazil
-- 💬 Ask me about React, Vue, TypeScript, and AI-assisted development
-
----
-
-### 🛠️ Tech Stack
+### 🛠️ My toolbox
 
 **Languages**
 
@@ -55,13 +63,21 @@ Full Stack Developer with a Software Engineering background and **3+ years** bui
 
 ---
 
-### 📊 GitHub Stats
+### 💜 A few things I believe in
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maisepmaya&show_icons=true&hide_border=true&title_color=6E56CF&icon_color=6E56CF&count_private=true" alt="Maíse's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisepmaya&layout=compact&hide_border=true&title_color=6E56CF&langs_count=8" alt="Top languages"/>
-</p>
+> ✨ &nbsp;**Clean code is kindness** to whoever reads it next — usually future me.
+>
+> 🎯 &nbsp;The best interface is the one people never have to *think* about.
+>
+> 🌷 &nbsp;Great products always live in the small details.
 
 ---
 
-<p align="center"><i>Passionate about building reliable, well-architected products. 🚀</i></p>
+<p align="center">
+  <b>Let's build something lovely — and well-architected — together.</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maisemaya/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:maisepmaya@gmail.com"><img src="https://img.shields.io/badge/Say%20hi-E75A8B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
