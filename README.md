@@ -5,7 +5,6 @@
   <a href="https://www.linkedin.com/in/maisemaya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:maisepmaya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/📍%20Brazil-009C3B?style=for-the-badge&logoColor=white" alt="Brazil"/>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-6E56CF?style=for-the-badge" alt="Open to remote work"/>
 </p>
 
 ---
@@ -17,7 +16,7 @@ Full Stack Developer with a Software Engineering background and **3+ years** bui
 - 🔭 Currently working as a Full Stack Developer at **DBX Global**
 - 🎓 Postgraduate in **Full Stack Development — PUC-Rio** · B.Sc. in **Computer Science** (GPA 9.4/10)
 - 🌱 Exploring CI/CD, microservices, and cloud computing
-- 🌎 Based in Brazil — available for **remote roles worldwide**
+- 🌎 Based in Brazil
 - 💬 Ask me about React, Vue, TypeScript, and AI-assisted development
 
 ---
@@ -65,4 +64,4 @@ Full Stack Developer with a Software Engineering background and **3+ years** bui
 
 ---
 
-<p align="center"><i>Seeking remote roles where I can ship reliable, well-architected products. 🚀</i></p>
+<p align="center"><i>Passionate about building reliable, well-architected products. 🚀</i></p>
