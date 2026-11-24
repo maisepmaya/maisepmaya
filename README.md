@@ -1,80 +1,81 @@
 <h1 align="center">Hi, I'm Maíse 🌸</h1>
-<h3 align="center">Full Stack Developer · TypeScript · React & Vue</h3>
+<h3 align="center">Product Designer · UX/UI · Front-end</h3>
 
 <p align="center">
-  <i>I turn Figma designs into delightful, well-architected products —<br/>from the very first pixel to the last line of the API. 💜</i>
+  <i>I design products people don't have to think about —<br/>and I know how to take them from the first Figma frame all the way to production. 💜</i>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maisemaya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:maisepmaya@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/📍%20Brazil-6D5AE6?style=for-the-badge&logoColor=white" alt="Brazil"/>
+  <img src="https://img.shields.io/badge/📍%20Recife,%20Brazil-6D5AE6?style=for-the-badge&logoColor=white" alt="Recife, Brazil"/>
 </p>
 
 <br/>
 
 ### 🌸 About me
 
-Hi! I'm Maíse — a Full Stack Developer with a Software Engineering background and **3+ years** building web applications I'm genuinely proud of. I live in the **JavaScript / TypeScript** world (React & Vue), and I love owning a feature end to end: from the Figma mockup all the way to the data resting safely in the database.
+Hi! I'm Maíse, a Product Designer with **4+ years** building web and mobile products and a solid front-end background. I work from understanding users to prototyping in Figma and shipping side by side with developers.
 
-I care about clean, readable code, interfaces that feel effortless, and products that quietly just *work* for the people using them.
+I care about interfaces that feel effortless, consistent design systems, and accessibility from the very first sketch.
 
 <br/>
 
-- 💻 &nbsp;Currently a Full Stack Developer @ **DBX Global**
-- 🎓 &nbsp;Postgraduate in Full Stack Development @ **PUC-Rio** · B.Sc. in Computer Science *(GPA 9.4/10)*
-- 🌱 &nbsp;Exploring CI/CD, microservices & cloud computing
-- 💬 &nbsp;Ask me about **React, Vue, TypeScript** & AI-assisted development
-- 🌎 &nbsp;Based in Brazil
+- 🎨 &nbsp;Created the **white-label Design System** used across every site at **DBX Tecnologia**
+- ♿ &nbsp;Solid background in **accessibility**, practiced alongside PwD specialists
+- 🎓 &nbsp;Postgraduate @ **PUC-Rio** (incl. Interface Design & Prototyping) · B.Sc. in Computer Science *(GPA 9.4/10)*
+- 🤖 &nbsp;Using generative AI (Claude, Copilot, Cursor) to work faster
+- 🌎 &nbsp;Based in Recife, Brazil
+
+---
+
+### ✨ Featured projects
+
+**[HordaMaster](https://github.com/maisepmaya/front-end-avancado-pucrio)** · MVP web app that helps tabletop RPG game masters manage enemies in combat. I designed the interface's visual elements and built it in React. Praised for its usability and intuitive navigation.
+
+**Kibo** · Mobile Augmentative and Alternative Communication (AAC) app. Pictograms adapt to the user's skin tone and hair color, with adjustable font size, contrast and text-to-speech. Final thesis, graded 10/10.
 
 ---
 
 ### 🛠️ My toolbox
 
-**Languages**
+**Design**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Design Systems](https://img.shields.io/badge/Design_Systems-B0287D?style=flat-square)
+![UX Research](https://img.shields.io/badge/UX_Research-6D5AE6?style=flat-square)
+![Accessibility](https://img.shields.io/badge/Accessibility_(WCAG)-0A66C2?style=flat-square)
 
 **Front-end**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-050A14?style=flat-square&logo=quasar&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Back-end**
+**Also comfortable with**
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-**Databases & Tools**
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
 ### 💜 A few things I believe in
 
-> ✨ &nbsp;**Clean code is kindness** to whoever reads it next — usually future me.
->
 > 🎯 &nbsp;The best interface is the one people never have to *think* about.
+>
+> ♿ &nbsp;Accessibility isn't a feature, it's the starting point.
 >
 > 🌷 &nbsp;Great products always live in the small details.
 
 ---
 
 <p align="center">
-  <b>Let's build something lovely — and well-architected — together.</b>
+  <b>Let's build something lovely, usable and accessible together.</b>
 </p>
 
 <p align="center">
